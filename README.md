@@ -42,3 +42,10 @@ to
 123
 456
 780
+
+Computing Averages...
+
+Solution found!
+                    Average Steps          Average Time
+BFS:                   25.00              5.644789
+IDS:                   36.00              14.689915
